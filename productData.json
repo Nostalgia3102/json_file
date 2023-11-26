@@ -1,0 +1,2969 @@
+[
+  {
+    "Sliding Window": [
+      {
+        "18 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100001",
+            "SectionNo(Renukoot)": "7056",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Shutter Vertical",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.1,
+            "Weight": "0.404"
+          },
+          {
+            "SectionNo(Silvassa)": "100002",
+            "SectionNo(Renukoot)": "7054",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.1,
+            "Weight": "0.404"
+          },
+          {
+            "SectionNo(Silvassa)": "100003",
+            "SectionNo(Renukoot)": "7055",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Interlock",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.1,
+            "Weight": "0.474"
+          },
+          {
+            "SectionNo(Silvassa)": "100005",
+            "SectionNo(Renukoot)": "7058",
+            "Product": "Sliding Window - Pupular",
+            "Application": "2 Track Top",
+            "Size (A)": 61.6,
+            "Size (B)": "31.8",
+            "Thickness": 1.1,
+            "Weight": "0.584"
+          },
+          {
+            "SectionNo(Silvassa)": "100006",
+            "SectionNo(Renukoot)": "7057",
+            "Product": "Sliding Window - Pupular",
+            "Application": "2 Tarck Bottom",
+            "Size (A)": 61.6,
+            "Size (B)": "31.8",
+            "Thickness": 1.1,
+            "Weight": "0.666"
+          },
+          {
+            "SectionNo(Silvassa)": "100007",
+            "SectionNo(Renukoot)": "7060",
+            "Product": "Sliding Window - Pupular",
+            "Application": "3 Track Top/ Side",
+            "Size (A)": 91.8,
+            "Size (B)": "31.8",
+            "Thickness": 1.1,
+            "Weight": "0.784"
+          },
+          {
+            "SectionNo(Silvassa)": "100008",
+            "SectionNo(Renukoot)": "100001",
+            "Product": "Sliding Window - Pupular",
+            "Application": "3 Track Bottom",
+            "Size (A)": 91.8,
+            "Size (B)": "31.8",
+            "Thickness": 1.1,
+            "Weight": "0.905"
+          },
+          {
+            "SectionNo(Silvassa)": "100934",
+            "SectionNo(Renukoot)": "100002",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 50,
+            "Size (B)": "18.0",
+            "Thickness": 1.3,
+            "Weight": "0.519"
+          },
+          {
+            "SectionNo(Silvassa)": "100935",
+            "SectionNo(Renukoot)": "100003",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Shutter Virtical",
+            "Size (A)": 50,
+            "Size (B)": "18.0",
+            "Thickness": 1.2,
+            "Weight": "0.467"
+          },
+          {
+            "SectionNo(Silvassa)": "100936",
+            "SectionNo(Renukoot)": "100005",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Interlock",
+            "Size (A)": 50,
+            "Size (B)": "18.0",
+            "Thickness": 1.2,
+            "Weight": "0.571"
+          },
+          {
+            "SectionNo(Silvassa)": "100047",
+            "SectionNo(Renukoot)": "100006",
+            "Product": "Sliding Window - Pupular",
+            "Application": "SHUTTER TOP/BOTTOM",
+            "Size (A)": 60,
+            "Size (B)": "18.0",
+            "Thickness": 1.1,
+            "Weight": "0.532"
+          },
+          {
+            "SectionNo(Silvassa)": "100048",
+            "SectionNo(Renukoot)": "100007",
+            "Product": "Sliding Window - Pupular",
+            "Application": "INTER LOCK",
+            "Size (A)": 60,
+            "Size (B)": "18.0",
+            "Thickness": 1.1,
+            "Weight": "0.584"
+          },
+          {
+            "SectionNo(Silvassa)": "100049",
+            "SectionNo(Renukoot)": "100008",
+            "Product": "Sliding Window - Pupular",
+            "Application": "Shutter Vertical",
+            "Size (A)": 60,
+            "Size (B)": "18.0",
+            "Thickness": 1.1,
+            "Weight": "0.524"
+          },
+          {
+            "SectionNo(Silvassa)": "100057",
+            "SectionNo(Renukoot)": "7331",
+            "Product": "Sliding Window - Govt",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 2,
+            "Weight": "0.667"
+          },
+          {
+            "SectionNo(Silvassa)": "100058",
+            "SectionNo(Renukoot)": "7332",
+            "Product": "Sliding Window - Govt",
+            "Application": "Interlock",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 2,
+            "Weight": "0.797"
+          },
+          {
+            "SectionNo(Silvassa)": "100059",
+            "SectionNo(Renukoot)": "7333",
+            "Product": "Sliding Window - Govt",
+            "Application": "Shutter Vertical",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 2,
+            "Weight": "0.678"
+          },
+          {
+            "SectionNo(Silvassa)": "100060",
+            "SectionNo(Renukoot)": "7334",
+            "Product": "Sliding Window - Govt",
+            "Application": "3 Track Bottom",
+            "Size (A)": 91.8,
+            "Size (B)": "31.8",
+            "Thickness": 2,
+            "Weight": "1.366"
+          },
+          {
+            "SectionNo(Silvassa)": "100061",
+            "SectionNo(Renukoot)": "7335",
+            "Product": "Sliding Window - Govt",
+            "Application": "3 Track Top/ Side",
+            "Size (A)": 91.8,
+            "Size (B)": "31.8",
+            "Thickness": 2,
+            "Weight": "1.2"
+          },
+          {
+            "SectionNo(Silvassa)": "100050",
+            "SectionNo(Renukoot)": "4697",
+            "Product": "Sliding Window - Medium",
+            "Application": "Shutter",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.5,
+            "Weight": "0.518"
+          },
+          {
+            "SectionNo(Silvassa)": "100051",
+            "SectionNo(Renukoot)": "4698",
+            "Product": "Sliding Window - Medium",
+            "Application": "Interlock",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.5,
+            "Weight": "0.601"
+          },
+          {
+            "SectionNo(Silvassa)": "100052",
+            "SectionNo(Renukoot)": "4699",
+            "Product": "Sliding Window - Medium",
+            "Application": "Shutter Vertical (Handle)",
+            "Size (A)": 39.4,
+            "Size (B)": "17.7",
+            "Thickness": 1.5,
+            "Weight": "0.518"
+          },
+          {
+            "SectionNo(Silvassa)": "100053",
+            "SectionNo(Renukoot)": "4700",
+            "Product": "Sliding Window - Medium",
+            "Application": "2 Tarck Bottom",
+            "Size (A)": 61.6,
+            "Size (B)": "31.7",
+            "Thickness": 1.5,
+            "Weight": "0.831"
+          },
+          {
+            "SectionNo(Silvassa)": "100054",
+            "SectionNo(Renukoot)": "4701",
+            "Product": "Sliding Window - Medium",
+            "Application": "2 Track Top",
+            "Size (A)": 61.6,
+            "Size (B)": "23.2",
+            "Thickness": 1.5,
+            "Weight": "0.735"
+          },
+          {
+            "SectionNo(Silvassa)": "100055",
+            "SectionNo(Renukoot)": "4702",
+            "Product": "Sliding Window - Medium",
+            "Application": "3 Track Bottom",
+            "Size (A)": 91.8,
+            "Size (B)": "23.2",
+            "Thickness": 1.5,
+            "Weight": "1.125"
+          },
+          {
+            "SectionNo(Silvassa)": "100056",
+            "SectionNo(Renukoot)": "4703",
+            "Product": "Sliding Window - Medium",
+            "Application": "3 Track Top/ Side",
+            "Size (A)": 91.8,
+            "Size (B)": "23.2",
+            "Thickness": 1.5,
+            "Weight": "0.983"
+          }
+        ],
+        "img": ""
+      },
+      {
+        "20 mm Series": [
+          {
+            "SectionNo(Silvassa)": "101159",
+            "SectionNo(Renukoot)": "A3994",
+            "Product": "Sliding Window",
+            "Application": "Shutter Virtical",
+            "Size (A)": 40,
+            "Size (B)": "18.0",
+            "Thickness": 1.2,
+            "Weight": "0.378"
+          },
+          {
+            "SectionNo(Silvassa)": "101160",
+            "SectionNo(Renukoot)": "A4097",
+            "Product": "Sliding Window",
+            "Application": "3 Track",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101162",
+            "SectionNo(Renukoot)": "A4148",
+            "Product": "Sliding Window",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 40,
+            "Size (B)": "20.0",
+            "Thickness": 1.5,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101166",
+            "SectionNo(Renukoot)": "A9778",
+            "Product": "Sliding Window",
+            "Application": "Shutter Interlock -1.5",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 1.5,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101169",
+            "SectionNo(Renukoot)": "A9395",
+            "Product": "Sliding Window",
+            "Application": "Shutter Vertical - 1.10",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 1.1,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101170",
+            "SectionNo(Renukoot)": "A9779",
+            "Product": "Sliding Window",
+            "Application": "Shutter Interlock - 1.16",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 1.15,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101172",
+            "SectionNo(Renukoot)": "A4098",
+            "Product": "Sliding Window",
+            "Application": "3 Track Side & Top -1.5",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 1.5,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "100925",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "2 Track Top",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.503"
+          },
+          {
+            "SectionNo(Silvassa)": "100926",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "2 Track Bottom",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.573"
+          },
+          {
+            "SectionNo(Silvassa)": "100927",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "3 Track Top",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.684"
+          },
+          {
+            "SectionNo(Silvassa)": "100928",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "3 Track Bottom",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.786"
+          },
+          {
+            "SectionNo(Silvassa)": "100929",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.291"
+          },
+          {
+            "SectionNo(Silvassa)": "100930",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "Interlock",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.347"
+          },
+          {
+            "SectionNo(Silvassa)": "100931",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - 0.90 mm",
+            "Application": "Shutter Virtical",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.249"
+          }
+        ]
+      },
+      {
+        "25 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100347",
+            "SectionNo(Renukoot)": "5924",
+            "Product": "Sliding Window",
+            "Application": "Shutter Vertical (Handle)",
+            "Size (A)": 50,
+            "Size (B)": "25.0",
+            "Thickness": 1.2,
+            "Weight": "0.59"
+          },
+          {
+            "SectionNo(Silvassa)": "100348",
+            "SectionNo(Renukoot)": "5921",
+            "Product": "Sliding Window",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 60,
+            "Size (B)": "25.0",
+            "Thickness": 1.25,
+            "Weight": "0.678"
+          },
+          {
+            "SectionNo(Silvassa)": "100349",
+            "SectionNo(Renukoot)": "5932",
+            "Product": "Sliding Window",
+            "Application": "Interlock",
+            "Size (A)": 50,
+            "Size (B)": "25.0",
+            "Thickness": 1.3,
+            "Weight": "0.689"
+          },
+          {
+            "SectionNo(Silvassa)": "100350",
+            "SectionNo(Renukoot)": "5919",
+            "Product": "Sliding Window",
+            "Application": "two Track bottom",
+            "Size (A)": 75,
+            "Size (B)": "30.0",
+            "Thickness": 1.25,
+            "Weight": "0.667"
+          },
+          {
+            "SectionNo(Silvassa)": "100351",
+            "SectionNo(Renukoot)": "5920",
+            "Product": "Sliding Window",
+            "Application": "2 Track Top",
+            "Size (A)": 75,
+            "Size (B)": "25.4",
+            "Thickness": 1.2,
+            "Weight": "0.633"
+          },
+          {
+            "SectionNo(Silvassa)": "100352",
+            "SectionNo(Renukoot)": "5923",
+            "Product": "Sliding Window",
+            "Application": "3 Track Top/ Side",
+            "Size (A)": 116,
+            "Size (B)": "25.0",
+            "Thickness": 1.6,
+            "Weight": "1.044"
+          },
+          {
+            "SectionNo(Silvassa)": "100353",
+            "SectionNo(Renukoot)": "5935",
+            "Product": "Sliding Window",
+            "Application": "4 Track Bottom",
+            "Size (A)": 155,
+            "Size (B)": "25.0",
+            "Thickness": 2,
+            "Weight": "1.779"
+          },
+          {
+            "SectionNo(Silvassa)": "100932",
+            "SectionNo(Renukoot)": "5936",
+            "Product": "Sliding Window",
+            "Application": "3 Track Bottom",
+            "Size (A)": 116,
+            "Size (B)": "25.0",
+            "Thickness": 1.4,
+            "Weight": "1.137"
+          },
+          {
+            "SectionNo(Silvassa)": "100933",
+            "SectionNo(Renukoot)": "5938",
+            "Product": "Sliding Window",
+            "Application": "3 Track Top",
+            "Size (A)": 173.2,
+            "Size (B)": "31.0",
+            "Thickness": 2,
+            "Weight": "2.71"
+          },
+          {
+            "SectionNo(Silvassa)": "101014",
+            "SectionNo(Renukoot)": "12463",
+            "Product": "Sliding Window",
+            "Application": "Shutter Virtical",
+            "Size (A)": 60,
+            "Size (B)": "25.0",
+            "Thickness": 1.15,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101015",
+            "SectionNo(Renukoot)": "12464",
+            "Product": "Sliding Window",
+            "Application": "Shutter Middle",
+            "Size (A)": 60,
+            "Size (B)": "25.0",
+            "Thickness": 1.15,
+            "Weight": "0.622"
+          },
+          {
+            "SectionNo(Silvassa)": "101016",
+            "SectionNo(Renukoot)": "12465",
+            "Product": "Sliding Window",
+            "Application": "Shutter Top/ Bottom",
+            "Size (A)": 60,
+            "Size (B)": "25.0",
+            "Thickness": 1.15,
+            "Weight": "0.6"
+          },
+          {
+            "SectionNo(Silvassa)": "101050",
+            "SectionNo(Renukoot)": "8731",
+            "Product": "Sliding Window",
+            "Application": "Shutter Middle",
+            "Size (A)": 50,
+            "Size (B)": "25.0",
+            "Thickness": 1.2,
+            "Weight": "0.601"
+          }
+        ]
+      },
+      {
+        "27 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100081",
+            "SectionNo(Renukoot)": "6702",
+            "Product": "Sliding Window - Kerla",
+            "Application": "2 Track",
+            "Size (A)": 45,
+            "Size (B)": "25.0",
+            "Thickness": 1.5,
+            "Weight": "0.917"
+          },
+          {
+            "SectionNo(Silvassa)": "100366",
+            "SectionNo(Renukoot)": "A85249",
+            "Product": "Sliding Window - Kerla",
+            "Application": "2 Track",
+            "Size (A)": 45,
+            "Size (B)": "0.0",
+            "Thickness": 1.2,
+            "Weight": "0.725"
+          },
+          {
+            "SectionNo(Silvassa)": "100367",
+            "SectionNo(Renukoot)": "A85335",
+            "Product": "Sliding Window - Kerla",
+            "Application": "3 Track ",
+            "Size (A)": 74.8,
+            "Size (B)": "0.0",
+            "Thickness": 1.2,
+            "Weight": "1.172"
+          },
+          {
+            "SectionNo(Silvassa)": "100368",
+            "SectionNo(Renukoot)": "A85190",
+            "Product": "Sliding Window - Kerla",
+            "Application": "Shutter",
+            "Size (A)": 65,
+            "Size (B)": "27.0",
+            "Thickness": 1.2,
+            "Weight": "0.711"
+          },
+          {
+            "SectionNo(Silvassa)": "100369",
+            "SectionNo(Renukoot)": "A 4177",
+            "Product": "Sliding Window - Kerla",
+            "Application": "Interlock",
+            "Size (A)": 38.5,
+            "Size (B)": "28.5",
+            "Thickness": 1.3,
+            "Weight": "0.309"
+          },
+          {
+            "SectionNo(Silvassa)": "100370",
+            "SectionNo(Renukoot)": "A85846",
+            "Product": "Sliding Window - Kerla",
+            "Application": "3 Track",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": ""
+          },
+          {
+            "SectionNo(Silvassa)": "101044",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - Light",
+            "Application": "2 Track",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.125"
+          },
+          {
+            "SectionNo(Silvassa)": "101045",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - Light",
+            "Application": "3 Track",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.559"
+          },
+          {
+            "SectionNo(Silvassa)": "101046",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - Light",
+            "Application": "4 Track",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "2.193"
+          },
+          {
+            "SectionNo(Silvassa)": "101047",
+            "SectionNo(Renukoot)": "New",
+            "Product": "Sliding Window - Light",
+            "Application": "Shutter",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.716"
+          },
+          {
+            "SectionNo(Silvassa)": "101048",
+            "SectionNo(Renukoot)": "6701 (With Eurogrove)",
+            "Product": "Sliding Window - Light",
+            "Application": "Shutter Euro",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.901"
+          },
+          {
+            "SectionNo(Silvassa)": "100080",
+            "SectionNo(Renukoot)": "6701",
+            "Product": "Sliding Window - Market",
+            "Application": "SGU",
+            "Size (A)": 65,
+            "Size (B)": "27.0",
+            "Thickness": 1.5,
+            "Weight": "0.901"
+          },
+          {
+            "SectionNo(Silvassa)": "100082",
+            "SectionNo(Renukoot)": "11481",
+            "Product": "Sliding Window - Market",
+            "Application": "5 Track",
+            "Size (A)": 166,
+            "Size (B)": "25.0",
+            "Thickness": 2,
+            "Weight": "3.119"
+          },
+          {
+            "SectionNo(Silvassa)": "100083",
+            "SectionNo(Renukoot)": "11482",
+            "Product": "Sliding Window - Market",
+            "Application": "4 Track",
+            "Size (A)": 131.5,
+            "Size (B)": "25.0",
+            "Thickness": 1.4,
+            "Weight": "2.524"
+          },
+          {
+            "SectionNo(Silvassa)": "100084",
+            "SectionNo(Renukoot)": "11646",
+            "Product": "Sliding Window - Market",
+            "Application": "2 Track",
+            "Size (A)": 68.5,
+            "Size (B)": "25.0",
+            "Thickness": 1.4,
+            "Weight": "1.276"
+          },
+          {
+            "SectionNo(Silvassa)": "100085",
+            "SectionNo(Renukoot)": "11647",
+            "Product": "Sliding Window - Market",
+            "Application": "SGU",
+            "Size (A)": 67,
+            "Size (B)": "27.2",
+            "Thickness": 1.5,
+            "Weight": "0.85"
+          },
+          {
+            "SectionNo(Silvassa)": "100086",
+            "SectionNo(Renukoot)": "11648",
+            "Product": "Sliding Window - Market",
+            "Application": "3 Track",
+            "Size (A)": 101.6,
+            "Size (B)": "25.0",
+            "Thickness": 1.4,
+            "Weight": "1.831"
+          },
+          {
+            "SectionNo(Silvassa)": "101052",
+            "SectionNo(Renukoot)": "6648",
+            "Product": "Sliding Window - Market",
+            "Application": "DGU Shutter",
+            "Size (A)": 65,
+            "Size (B)": "26.0",
+            "Thickness": 1.4,
+            "Weight": "0.757"
+          },
+          {
+            "SectionNo(Silvassa)": "101053",
+            "SectionNo(Renukoot)": "11648 R1 (revised tolerance)",
+            "Product": "Sliding Window - Market",
+            "Application": "3 Track",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.72"
+          }
+        ]
+      },
+      {
+        "29 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100478",
+            "SectionNo(Renukoot)": "I-37178",
+            "Product": "Sliding Window",
+            "Application": "3 Track - A",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.773"
+          },
+          {
+            "SectionNo(Silvassa)": "100479",
+            "SectionNo(Renukoot)": "I-37179",
+            "Product": "Sliding Window",
+            "Application": "2 Track - A",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.135"
+          },
+          {
+            "SectionNo(Silvassa)": "100480",
+            "SectionNo(Renukoot)": " I-37180",
+            "Product": "Sliding Window",
+            "Application": "Shutter DGU",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.753"
+          },
+          {
+            "SectionNo(Silvassa)": "100481",
+            "SectionNo(Renukoot)": "I-37181",
+            "Product": "Sliding Window",
+            "Application": "Shutter SGU",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.844"
+          },
+          {
+            "SectionNo(Silvassa)": "100482",
+            "SectionNo(Renukoot)": "I-37183",
+            "Product": "Sliding Window",
+            "Application": "Lock",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.199"
+          },
+          {
+            "SectionNo(Silvassa)": "100483",
+            "SectionNo(Renukoot)": "I-37184",
+            "Product": "Sliding Window",
+            "Application": "Track Attachment Single",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.53"
+          },
+          {
+            "SectionNo(Silvassa)": "100484",
+            "SectionNo(Renukoot)": "I-37501",
+            "Product": "Sliding Window",
+            "Application": "3 Track - B",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.433"
+          },
+          {
+            "SectionNo(Silvassa)": "100485",
+            "SectionNo(Renukoot)": "I-37502",
+            "Product": "Sliding Window",
+            "Application": "2 Track - B",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.886"
+          },
+          {
+            "SectionNo(Silvassa)": "100486",
+            "SectionNo(Renukoot)": "I-37198",
+            "Product": "Sliding Window",
+            "Application": "Rainforce Shutter",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.172"
+          },
+          {
+            "SectionNo(Silvassa)": "100487",
+            "SectionNo(Renukoot)": "I-37197",
+            "Product": "Sliding Window",
+            "Application": "Interlock shutter",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.747"
+          },
+          {
+            "SectionNo(Silvassa)": "100488",
+            "SectionNo(Renukoot)": "I-37191",
+            "Product": "Sliding Window",
+            "Application": "Interlock Clip",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.344"
+          },
+          {
+            "SectionNo(Silvassa)": "101035",
+            "SectionNo(Renukoot)": "I 37182",
+            "Product": "Sliding Window",
+            "Application": "Mosquito Shutter",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.013"
+          }
+        ]
+      },
+      {
+        "35 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100087",
+            "SectionNo(Renukoot)": "12008",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES CLIP",
+            "Size (A)": 41.7,
+            "Size (B)": "39.0",
+            "Thickness": 1.6,
+            "Weight": "0.481"
+          },
+          {
+            "SectionNo(Silvassa)": "100088",
+            "SectionNo(Renukoot)": "12009",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES SHUTTER",
+            "Size (A)": 75,
+            "Size (B)": "35.0",
+            "Thickness": 1.8,
+            "Weight": "1.401"
+          },
+          {
+            "SectionNo(Silvassa)": "100089",
+            "SectionNo(Renukoot)": "12010",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES 3-TRACK",
+            "Size (A)": 130.5,
+            "Size (B)": "30.5",
+            "Thickness": 2,
+            "Weight": "2.809"
+          },
+          {
+            "SectionNo(Silvassa)": "100090",
+            "SectionNo(Renukoot)": "12011",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES 4-TRACK",
+            "Size (A)": 176.5,
+            "Size (B)": "30.5",
+            "Thickness": 2,
+            "Weight": "3.484"
+          },
+          {
+            "SectionNo(Silvassa)": "100092",
+            "SectionNo(Renukoot)": "12013",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES 2-TRACK",
+            "Size (A)": 85,
+            "Size (B)": "31.5",
+            "Thickness": 2,
+            "Weight": "1.996"
+          },
+          {
+            "SectionNo(Silvassa)": "100093",
+            "SectionNo(Renukoot)": "12014",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES DGU CLIP",
+            "Size (A)": 41.7,
+            "Size (B)": "39.0",
+            "Thickness": 1.6,
+            "Weight": "0.468"
+          },
+          {
+            "SectionNo(Silvassa)": "100094",
+            "SectionNo(Renukoot)": "12015",
+            "Product": "Sliding Window",
+            "Application": "35 MM SERIES DGU SHUTTER",
+            "Size (A)": 75,
+            "Size (B)": "35.0",
+            "Thickness": 1.8,
+            "Weight": "1.326"
+          }
+        ]
+      },
+      {
+        "37 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100065",
+            "SectionNo(Renukoot)": "6461",
+            "Product": "Sliding Window",
+            "Application": "2 Track",
+            "Size (A)": 90,
+            "Size (B)": "34.0",
+            "Thickness": 1.6,
+            "Weight": "1.84"
+          },
+          {
+            "SectionNo(Silvassa)": "100066",
+            "SectionNo(Renukoot)": "6462",
+            "Product": "Sliding Window",
+            "Application": "Shutter Single Glass",
+            "Size (A)": 82.6,
+            "Size (B)": "37.0",
+            "Thickness": 1.6,
+            "Weight": "1.364"
+          },
+          {
+            "SectionNo(Silvassa)": "100067",
+            "SectionNo(Renukoot)": "6463",
+            "Product": "Sliding Window",
+            "Application": "Interlock",
+            "Size (A)": 52.2,
+            "Size (B)": "44.9",
+            "Thickness": 1.6,
+            "Weight": "0.692"
+          },
+          {
+            "SectionNo(Silvassa)": "100068",
+            "SectionNo(Renukoot)": "6464",
+            "Product": "Sliding Window",
+            "Application": "Reinforcement",
+            "Size (A)": 51.5,
+            "Size (B)": "20.5",
+            "Thickness": 1.6,
+            "Weight": "0.722"
+          },
+          {
+            "SectionNo(Silvassa)": "100069",
+            "SectionNo(Renukoot)": "6587",
+            "Product": "Sliding Window",
+            "Application": "3 Track",
+            "Size (A)": 140,
+            "Size (B)": "34.0",
+            "Thickness": 1.6,
+            "Weight": "2.678"
+          },
+          {
+            "SectionNo(Silvassa)": "100070",
+            "SectionNo(Renukoot)": "6915",
+            "Product": "Sliding Window",
+            "Application": "Shutter Double Glass",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.295"
+          },
+          {
+            "SectionNo(Silvassa)": "101011",
+            "SectionNo(Renukoot)": "12341",
+            "Product": "Sliding Window",
+            "Application": "2 Track",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.77"
+          },
+          {
+            "SectionNo(Silvassa)": "101012",
+            "SectionNo(Renukoot)": "12342",
+            "Product": "Sliding Window",
+            "Application": "3 Track",
+            "Size (A)": 134,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "2.574"
+          },
+          {
+            "SectionNo(Silvassa)": "101013",
+            "SectionNo(Renukoot)": "12343",
+            "Product": "Sliding Window",
+            "Application": "Track Cap",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.152"
+          }
+        ]
+      }
+    ],
+    "img": "sliding_window.jpg"
+  },
+  {
+    "Casement Window": [
+      {
+        "40 mm Double Shutter": [
+          {
+            "SectionNo(Silvassa)": "100062",
+            "SectionNo(Renukoot)": "6184",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Outer",
+            "Size (A)": 125.5,
+            "Size (B)": "39.8",
+            "Thickness": 1.6,
+            "Weight": "1.082"
+          },
+          {
+            "SectionNo(Silvassa)": "100063",
+            "SectionNo(Renukoot)": "6185",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion",
+            "Size (A)": 124.5,
+            "Size (B)": "58.7",
+            "Thickness": 1.7,
+            "Weight": "1.864"
+          },
+          {
+            "SectionNo(Silvassa)": "100064",
+            "SectionNo(Renukoot)": "6186",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Outer",
+            "Size (A)": 124.5,
+            "Size (B)": "38.0",
+            "Thickness": 2.25,
+            "Weight": "1.463"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "40 mm series": [
+          {
+            "SectionNo(Silvassa)": "100075",
+            "SectionNo(Renukoot)": "8005/ A4404",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": 32.5,
+            "Size (B)": "26.2",
+            "Thickness": 1.2,
+            "Weight": "0.249"
+          },
+          {
+            "SectionNo(Silvassa)": "100076",
+            "SectionNo(Renukoot)": "8006/ A4427",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": 32.3,
+            "Size (B)": "17.8",
+            "Thickness": 1,
+            "Weight": "0.199"
+          },
+          {
+            "SectionNo(Silvassa)": "100077",
+            "SectionNo(Renukoot)": "8007/ A8899",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion",
+            "Size (A)": 54,
+            "Size (B)": "40.0",
+            "Thickness": 1.5,
+            "Weight": "0.746"
+          },
+          {
+            "SectionNo(Silvassa)": "100078",
+            "SectionNo(Renukoot)": "8008/ A8926",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Outer/ H Frame",
+            "Size (A)": 44,
+            "Size (B)": "40.0",
+            "Thickness": 1.5,
+            "Weight": "0.682"
+          },
+          {
+            "SectionNo(Silvassa)": "100079",
+            "SectionNo(Renukoot)": "12104/ A8785",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.641"
+          },
+          {
+            "SectionNo(Silvassa)": "100947",
+            "SectionNo(Renukoot)": "12395",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.227"
+          },
+          {
+            "SectionNo(Silvassa)": "100948",
+            "SectionNo(Renukoot)": "12426",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.899"
+          },
+          {
+            "SectionNo(Silvassa)": "100949",
+            "SectionNo(Renukoot)": "12497",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.793"
+          },
+          {
+            "SectionNo(Silvassa)": "100950",
+            "SectionNo(Renukoot)": "12498",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.896"
+          },
+          {
+            "SectionNo(Silvassa)": "101165",
+            "SectionNo(Renukoot)": "AA8926",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.68"
+          },
+          {
+            "SectionNo(Silvassa)": "101168",
+            "SectionNo(Renukoot)": "AA85676",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": 40,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.997"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "50 mm series": [
+          {
+            "SectionNo(Silvassa)": "101025",
+            "SectionNo(Renukoot)": "12179",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.022"
+          },
+          {
+            "SectionNo(Silvassa)": "101026",
+            "SectionNo(Renukoot)": "12180",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.224"
+          },
+          {
+            "SectionNo(Silvassa)": "101027",
+            "SectionNo(Renukoot)": "12669",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.108"
+          },
+          {
+            "SectionNo(Silvassa)": "101028",
+            "SectionNo(Renukoot)": "12676",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.788"
+          },
+          {
+            "SectionNo(Silvassa)": "101029",
+            "SectionNo(Renukoot)": "12673",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.006"
+          },
+          {
+            "SectionNo(Silvassa)": "101030",
+            "SectionNo(Renukoot)": "12674",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.443"
+          },
+          {
+            "SectionNo(Silvassa)": "101031",
+            "SectionNo(Renukoot)": "12675",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.445"
+          },
+          {
+            "SectionNo(Silvassa)": "101032",
+            "SectionNo(Renukoot)": "12676",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "0.569"
+          },
+          {
+            "SectionNo(Silvassa)": "101033",
+            "SectionNo(Renukoot)": "12677",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Door Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.051"
+          },
+          {
+            "SectionNo(Silvassa)": "101034",
+            "SectionNo(Renukoot)": "12678",
+            "Product": "Casement window Door",
+            "Application": "Door Frame",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": "1.583"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "50 mm Series - Kerla": [
+          {
+            "SectionNo(Silvassa)": "100354",
+            "SectionNo(Renukoot)": "A85530",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion ",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.165"
+          },
+          {
+            "SectionNo(Silvassa)": "100355",
+            "SectionNo(Renukoot)": "A85531",
+            "Product": "CASEMENT WINDOW",
+            "Application": "H Frame",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.988"
+          },
+          {
+            "SectionNo(Silvassa)": "100356",
+            "SectionNo(Renukoot)": "A85532",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Shutter",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.146"
+          },
+          {
+            "SectionNo(Silvassa)": "100357",
+            "SectionNo(Renukoot)": "85781",
+            "Product": "CASEMENT WINDOW",
+            "Application": "0",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.301"
+          },
+          {
+            "SectionNo(Silvassa)": "101049",
+            "SectionNo(Renukoot)": "A4345",
+            "Product": "CASEMENT WINDOW",
+            "Application": "DGU Clip",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "0.259"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "52 mm Series": [
+          {
+            "SectionNo(Silvassa)": "100071",
+            "SectionNo(Renukoot)": "7836/ A4367",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": 36,
+            "Size (B)": "26.5",
+            "Thickness": 1.2,
+            "Weight": "0.312"
+          },
+          {
+            "SectionNo(Silvassa)": "100072",
+            "SectionNo(Renukoot)": "7837/ A4368",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Clip Dug",
+            "Size (A)": 32,
+            "Size (B)": "25.9",
+            "Thickness": 1.2,
+            "Weight": "0.281"
+          },
+          {
+            "SectionNo(Silvassa)": "100073",
+            "SectionNo(Renukoot)": "7838",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Outer Frame",
+            "Size (A)": 52,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.886"
+          },
+          {
+            "SectionNo(Silvassa)": "100074",
+            "SectionNo(Renukoot)": "7839/ A8880",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion",
+            "Size (A)": 66,
+            "Size (B)": "52.0",
+            "Thickness": 1.5,
+            "Weight": "1.002"
+          },
+          {
+            "SectionNo(Silvassa)": "101174",
+            "SectionNo(Renukoot)": "A8975",
+            "Product": "CASEMENT WINDOW",
+            "Application": "Mullion ",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "(blank)"
+          }
+        ]
+      }
+    ],
+    "img": "casement_window.jpg"
+  },
+  {
+    "Façade": [
+      {
+        "55 mm Façade": [
+          {
+            "SectionNo(Silvassa)": "100359",
+            "SectionNo(Renukoot)": "7558",
+            "Product": "Structural Glazzing",
+            "Application": "Cover Plate",
+            "Size (A)": 55,
+            "Size (B)": "15.0",
+            "Thickness": 1.5,
+            "Weight": "0.342"
+          },
+          {
+            "SectionNo(Silvassa)": "100360",
+            "SectionNo(Renukoot)": "7559",
+            "Product": "Structural Glazzing",
+            "Application": "Pressure Plante",
+            "Size (A)": 53,
+            "Size (B)": "9.0",
+            "Thickness": 3,
+            "Weight": "0.514"
+          },
+          {
+            "SectionNo(Silvassa)": "101018",
+            "SectionNo(Renukoot)": "A9302",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "2.439"
+          },
+          {
+            "SectionNo(Silvassa)": "101019",
+            "SectionNo(Renukoot)": "A9303",
+            "Product": "Structural Glazzing",
+            "Application": "Mullion",
+            "Size (A)": 100,
+            "Size (B)": "55.0",
+            "Thickness": 2,
+            "Weight": "1.819"
+          },
+          {
+            "SectionNo(Silvassa)": "101020",
+            "SectionNo(Renukoot)": "A9187",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 67,
+            "Size (B)": "55.0",
+            "Thickness": 2,
+            "Weight": "1.875"
+          },
+          {
+            "SectionNo(Silvassa)": "101021",
+            "SectionNo(Renukoot)": "A7559",
+            "Product": "Curtain Wall ",
+            "Application": "Pressure Plate",
+            "Size (A)": 53.5,
+            "Size (B)": "9.6",
+            "Thickness": 3,
+            "Weight": "0.514"
+          },
+          {
+            "SectionNo(Silvassa)": "101022",
+            "SectionNo(Renukoot)": "A7558",
+            "Product": "Curtain Wall ",
+            "Application": "Cover Plante",
+            "Size (A)": 55,
+            "Size (B)": "15.0",
+            "Thickness": 1.5,
+            "Weight": "0.342"
+          },
+          {
+            "SectionNo(Silvassa)": "101149",
+            "SectionNo(Renukoot)": "A9303",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 100,
+            "Size (B)": "55.0",
+            "Thickness": 2,
+            "Weight": "(blank)"
+          },
+          {
+            "SectionNo(Silvassa)": "101167",
+            "SectionNo(Renukoot)": "AA85380",
+            "Product": "Curtain Wall ",
+            "Application": "Shah ",
+            "Size (A)": 67.5,
+            "Size (B)": "27.5",
+            "Thickness": 1.6,
+            "Weight": "(blank)"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "67 mm Façade": [
+          {
+            "SectionNo(Silvassa)": "100937",
+            "SectionNo(Renukoot)": "11447",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 166,
+            "Size (B)": "67.0",
+            "Thickness": 5,
+            "Weight": "5.884"
+          },
+          {
+            "SectionNo(Silvassa)": "100938",
+            "SectionNo(Renukoot)": "11448",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 166,
+            "Size (B)": "67.0",
+            "Thickness": 3,
+            "Weight": "3.942"
+          },
+          {
+            "SectionNo(Silvassa)": "100939",
+            "SectionNo(Renukoot)": "11449",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 166,
+            "Size (B)": "38.0",
+            "Thickness": 5,
+            "Weight": "5.108"
+          },
+          {
+            "SectionNo(Silvassa)": "100940",
+            "SectionNo(Renukoot)": "11450",
+            "Product": "Curtain Wall ",
+            "Application": "Shah",
+            "Size (A)": 68,
+            "Size (B)": "28.0",
+            "Thickness": 1.6,
+            "Weight": "0.686"
+          },
+          {
+            "SectionNo(Silvassa)": "100941",
+            "SectionNo(Renukoot)": "12102",
+            "Product": "Curtain Wall ",
+            "Application": "Shah",
+            "Size (A)": 85,
+            "Size (B)": "27.5",
+            "Thickness": 1.4,
+            "Weight": "0.73"
+          },
+          {
+            "SectionNo(Silvassa)": "100942",
+            "SectionNo(Renukoot)": "8772",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 131,
+            "Size (B)": "67.0",
+            "Thickness": 2.5,
+            "Weight": "2.614"
+          },
+          {
+            "SectionNo(Silvassa)": "100943",
+            "SectionNo(Renukoot)": "8773",
+            "Product": "Curtain Wall ",
+            "Application": "Half Mullion",
+            "Size (A)": 131,
+            "Size (B)": "38.5",
+            "Thickness": 2.5,
+            "Weight": "2.222"
+          },
+          {
+            "SectionNo(Silvassa)": "100944",
+            "SectionNo(Renukoot)": "7366",
+            "Product": "Curtain Wall ",
+            "Application": "Toggel",
+            "Size (A)": 29.2,
+            "Size (B)": "8.0",
+            "Thickness": 2.5,
+            "Weight": "0.229"
+          },
+          {
+            "SectionNo(Silvassa)": "100945",
+            "SectionNo(Renukoot)": "12623",
+            "Product": "Curtain Wall ",
+            "Application": "Shah",
+            "Size (A)": 52.5,
+            "Size (B)": "27.5",
+            "Thickness": 1.5,
+            "Weight": "0.589"
+          },
+          {
+            "SectionNo(Silvassa)": "100946",
+            "SectionNo(Renukoot)": "11472",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 210,
+            "Size (B)": "67.0",
+            "Thickness": 2.2,
+            "Weight": "4.678"
+          },
+          {
+            "SectionNo(Silvassa)": "101051",
+            "SectionNo(Renukoot)": "8774",
+            "Product": "Curtain Wall ",
+            "Application": "Mullion",
+            "Size (A)": 50,
+            "Size (B)": "67.0",
+            "Thickness": 2,
+            "Weight": "1.616"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      }
+    ],
+    "img": "facade.jpg"
+  },
+  {
+    "Angel": [
+      {
+        "SectionNo(Silvassa)": "101037",
+        "SectionNo(Renukoot)": "25.4 x 25.4 x 2",
+        "Product": "Angel - Equal Legs  ",
+        "Application": "Angel - Equal Legs  ",
+        "Size (A)": 25.4,
+        "Size (B)": "25.4",
+        "Thickness": 3,
+        "Weight": "0.263"
+      },
+      {
+        "SectionNo(Silvassa)": "101038",
+        "SectionNo(Renukoot)": "25.4 x 25.4 x 3",
+        "Product": "Angel - Equal Legs  ",
+        "Application": "Angel - Equal Legs  ",
+        "Size (A)": 25.4,
+        "Size (B)": "25.4",
+        "Thickness": 3,
+        "Weight": "0.386"
+      },
+      {
+        "SectionNo(Silvassa)": "101039",
+        "SectionNo(Renukoot)": "38.1 x 38.1 x 2.7",
+        "Product": "Angel - Equal Legs  ",
+        "Application": "Angel - Equal Legs  ",
+        "Size (A)": 38.1,
+        "Size (B)": "38.1",
+        "Thickness": 2.7,
+        "Weight": "0.535"
+      },
+      {
+        "SectionNo(Silvassa)": "101040",
+        "SectionNo(Renukoot)": "19 x 19 x 2",
+        "Product": "Angel - Equal Legs  ",
+        "Application": "Angel - Equal Legs  ",
+        "Size (A)": 19,
+        "Size (B)": "19.0",
+        "Thickness": 2,
+        "Weight": "0.194"
+      },
+      {
+        "SectionNo(Silvassa)": "130264",
+        "SectionNo(Renukoot)": "A1746",
+        "Product": "Angel - Equal Legs  ",
+        "Application": "Angel - Equal Legs  ",
+        "Size (A)": 25,
+        "Size (B)": "0.0",
+        "Thickness": 1.5,
+        "Weight": "(blank)"
+      }
+    ],
+    "img": "angel.jpg"
+  },
+  {
+    "Channel": [
+      {
+        "SectionNo(Silvassa)": "101041",
+        "SectionNo(Renukoot)": "9.52 x 0.80 ",
+        "Product": "Channel",
+        "Application": "Channel",
+        "Size (A)": 9.5,
+        "Size (B)": "9.5",
+        "Thickness": 0.8,
+        "Weight": "0.058"
+      },
+      {
+        "SectionNo(Silvassa)": "101042",
+        "SectionNo(Renukoot)": "12.70 x 0.80 ",
+        "Product": "Channel",
+        "Application": "Channel",
+        "Size (A)": 12.7,
+        "Size (B)": "12.7",
+        "Thickness": 0.8,
+        "Weight": "0.078"
+      },
+      {
+        "SectionNo(Silvassa)": "101043",
+        "SectionNo(Renukoot)": "9 x 15 x 1 ",
+        "Product": "Channel",
+        "Application": "Channel",
+        "Size (A)": 9,
+        "Size (B)": "15.0",
+        "Thickness": 1,
+        "Weight": "0.1"
+      },
+      {
+        "SectionNo(Silvassa)": "130206",
+        "SectionNo(Renukoot)": "(blank)",
+        "Product": "ANGLE",
+        "Application": "Channel",
+        "Size (A)": 95,
+        "Size (B)": "25.0",
+        "Thickness": 3,
+        "Weight": "(blank)"
+      },
+      {
+        "SectionNo(Silvassa)": "130851",
+        "SectionNo(Renukoot)": "A2256",
+        "Product": "Channel- Equal Flange & Base Thickness",
+        "Application": "Channel with equal base",
+        "Size (A)": 25.4,
+        "Size (B)": "0.0",
+        "Thickness": 2.9,
+        "Weight": "(blank)"
+      }
+    ],
+    "img": "channel.jpg"
+  },
+  {
+    "Doors and Partitions": [
+      {
+        "Clip": [
+          {
+            "SectionNo(Silvassa)": "100019",
+            "SectionNo(Renukoot)": "19382",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": 19,
+            "Size (B)": "17.3",
+            "Thickness": 0.41,
+            "Weight": "0.061"
+          },
+          {
+            "SectionNo(Silvassa)": "100020",
+            "SectionNo(Renukoot)": "12100",
+            "Product": "Doors",
+            "Application": "Glazing Clip",
+            "Size (A)": 19,
+            "Size (B)": "17.3",
+            "Thickness": 0.49,
+            "Weight": "0.071"
+          },
+          {
+            "SectionNo(Silvassa)": "100021",
+            "SectionNo(Renukoot)": "19361",
+            "Product": "CASEMENT WINDOW",
+            "Application": "CLIP",
+            "Size (A)": 19,
+            "Size (B)": "17.3",
+            "Thickness": 0.53,
+            "Weight": "0.078"
+          },
+          {
+            "SectionNo(Silvassa)": "101161",
+            "SectionNo(Renukoot)": "AA4125",
+            "Product": "Partition",
+            "Application": "CLIP",
+            "Size (A)": 31,
+            "Size (B)": "17.5",
+            "Thickness": 1.2,
+            "Weight": "0.182"
+          },
+          {
+            "SectionNo(Silvassa)": "101163",
+            "SectionNo(Renukoot)": "AA4398",
+            "Product": "Partition",
+            "Application": "CLIP",
+            "Size (A)": 19,
+            "Size (B)": "17.3",
+            "Thickness": 0.9,
+            "Weight": "0.117"
+          }
+        ]
+      },
+      {
+        "Partition": [
+          {
+            "SectionNo(Silvassa)": "100013",
+            "SectionNo(Renukoot)": "4981",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 49.9,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.863"
+          },
+          {
+            "SectionNo(Silvassa)": "100014",
+            "SectionNo(Renukoot)": "6963",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 63.5,
+            "Size (B)": "38.1",
+            "Thickness": 1.15,
+            "Weight": "0.724"
+          },
+          {
+            "SectionNo(Silvassa)": "100160",
+            "SectionNo(Renukoot)": "4839",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 50,
+            "Size (B)": "30.0",
+            "Thickness": 2.5,
+            "Weight": "1.186"
+          },
+          {
+            "SectionNo(Silvassa)": "100161",
+            "SectionNo(Renukoot)": "7384",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 50.5,
+            "Size (B)": "25.5",
+            "Thickness": 1.1,
+            "Weight": "0.57"
+          },
+          {
+            "SectionNo(Silvassa)": "100162",
+            "SectionNo(Renukoot)": "2590",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 61.9,
+            "Size (B)": "31.8",
+            "Thickness": 1.8,
+            "Weight": "1.022"
+          },
+          {
+            "SectionNo(Silvassa)": "100163",
+            "SectionNo(Renukoot)": "6218",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 61.9,
+            "Size (B)": "36.5",
+            "Thickness": 1.2,
+            "Weight": "0.768"
+          },
+          {
+            "SectionNo(Silvassa)": "100164",
+            "SectionNo(Renukoot)": "6223",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 62.5,
+            "Size (B)": "37.1",
+            "Thickness": 1.5,
+            "Weight": "0.929"
+          },
+          {
+            "SectionNo(Silvassa)": "100165",
+            "SectionNo(Renukoot)": "4570",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 1.5,
+            "Weight": "0.978"
+          },
+          {
+            "SectionNo(Silvassa)": "100166",
+            "SectionNo(Renukoot)": "2205",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 2,
+            "Weight": "1.234"
+          },
+          {
+            "SectionNo(Silvassa)": "100167",
+            "SectionNo(Renukoot)": "7350",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 2.5,
+            "Weight": "1.429"
+          },
+          {
+            "SectionNo(Silvassa)": "100169",
+            "SectionNo(Renukoot)": "10804",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 76,
+            "Size (B)": "38.0",
+            "Thickness": 2,
+            "Weight": "1.369"
+          },
+          {
+            "SectionNo(Silvassa)": "100170",
+            "SectionNo(Renukoot)": "2246",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 82.5,
+            "Size (B)": "38.0",
+            "Thickness": 2.4,
+            "Weight": "1.658"
+          },
+          {
+            "SectionNo(Silvassa)": "100171",
+            "SectionNo(Renukoot)": "8065",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 86.7,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.114"
+          },
+          {
+            "SectionNo(Silvassa)": "100172",
+            "SectionNo(Renukoot)": "4872",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.324"
+          },
+          {
+            "SectionNo(Silvassa)": "100173",
+            "SectionNo(Renukoot)": "2201",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.701"
+          },
+          {
+            "SectionNo(Silvassa)": "100174",
+            "SectionNo(Renukoot)": "4320",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "2.073"
+          },
+          {
+            "SectionNo(Silvassa)": "100175",
+            "SectionNo(Renukoot)": "1770",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.434"
+          },
+          {
+            "SectionNo(Silvassa)": "100176",
+            "SectionNo(Renukoot)": "8768",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 123,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.782"
+          },
+          {
+            "SectionNo(Silvassa)": "100177",
+            "SectionNo(Renukoot)": "8137",
+            "Product": "Partitions",
+            "Application": "Partition - Double",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "3.226"
+          },
+          {
+            "SectionNo(Silvassa)": "100179",
+            "SectionNo(Renukoot)": "5288",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 49.9,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.086"
+          },
+          {
+            "SectionNo(Silvassa)": "100180",
+            "SectionNo(Renukoot)": "2320",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 49.9,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "1.464"
+          },
+          {
+            "SectionNo(Silvassa)": "100181",
+            "SectionNo(Renukoot)": "7090",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.852"
+          },
+          {
+            "SectionNo(Silvassa)": "100182",
+            "SectionNo(Renukoot)": "6228",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 50,
+            "Size (B)": "45.0",
+            "Thickness": 2.5,
+            "Weight": "1.295"
+          },
+          {
+            "SectionNo(Silvassa)": "100183",
+            "SectionNo(Renukoot)": "4608",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 50.1,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.088"
+          },
+          {
+            "SectionNo(Silvassa)": "100184",
+            "SectionNo(Renukoot)": "4983",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 86.7,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.162"
+          },
+          {
+            "SectionNo(Silvassa)": "100185",
+            "SectionNo(Renukoot)": "5289",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 86.7,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.485"
+          },
+          {
+            "SectionNo(Silvassa)": "100186",
+            "SectionNo(Renukoot)": "6226",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 100,
+            "Size (B)": "45.5",
+            "Thickness": 2,
+            "Weight": "1.595"
+          },
+          {
+            "SectionNo(Silvassa)": "100187",
+            "SectionNo(Renukoot)": "5833",
+            "Product": "Doors",
+            "Application": "Partition - Middle",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "3.143"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      },
+      {
+        "Doors": [
+          {
+            "SectionNo(Silvassa)": "101171",
+            "SectionNo(Renukoot)": "A85717",
+            "Product": "Doors",
+            "Application": "Door Middle",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "(blank)"
+          },
+          {
+            "SectionNo(Silvassa)": "101175",
+            "SectionNo(Renukoot)": "A85204",
+            "Product": "Doors",
+            "Application": "Door Square Vertical",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "(blank)"
+          },
+          {
+            "SectionNo(Silvassa)": "101176",
+            "SectionNo(Renukoot)": "A9284",
+            "Product": "Doors",
+            "Application": "Door Vertical",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "(blank)"
+          }
+        ]
+      },
+      {
+        "25 mm Door Frame": [
+          {
+            "SectionNo(Silvassa)": "101017",
+            "SectionNo(Renukoot)": "12466",
+            "Product": "Doors",
+            "Application": "Door Frame",
+            "Size (A)": 65,
+            "Size (B)": "25.0",
+            "Thickness": 1.15,
+            "Weight": "0.714"
+          },
+          {
+            "SectionNo(Silvassa)": "101036",
+            "SectionNo(Renukoot)": "10290",
+            "Product": "Doors",
+            "Application": "Door Frame",
+            "Size (A)": 44.5,
+            "Size (B)": "25.0",
+            "Thickness": 1.2,
+            "Weight": "0.515"
+          }
+        ]
+      },
+      {
+        "Partition SG": [
+          {
+            "SectionNo(Silvassa)": "100011",
+            "SectionNo(Renukoot)": "4980",
+            "Product": "Doors",
+            "Application": "Door Centre",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.784"
+          },
+          {
+            "SectionNo(Silvassa)": "100012",
+            "SectionNo(Renukoot)": "6961",
+            "Product": "Partitions",
+            "Application": "Partition-Single",
+            "Size (A)": 63.5,
+            "Size (B)": "38.1",
+            "Thickness": 1.15,
+            "Weight": "0.672"
+          },
+          {
+            "SectionNo(Silvassa)": "100103",
+            "SectionNo(Renukoot)": "12167",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 1.6,
+            "Weight": "0.827"
+          },
+          {
+            "SectionNo(Silvassa)": "100104",
+            "SectionNo(Renukoot)": "12168",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 1.95,
+            "Weight": "0.984"
+          },
+          {
+            "SectionNo(Silvassa)": "100105",
+            "SectionNo(Renukoot)": "12169",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "1.437"
+          },
+          {
+            "SectionNo(Silvassa)": "100106",
+            "SectionNo(Renukoot)": "12170",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.6,
+            "Weight": "1.138"
+          },
+          {
+            "SectionNo(Silvassa)": "100107",
+            "SectionNo(Renukoot)": "12171",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.395"
+          },
+          {
+            "SectionNo(Silvassa)": "100108",
+            "SectionNo(Renukoot)": "12172",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 3.18,
+            "Weight": "2.131"
+          },
+          {
+            "SectionNo(Silvassa)": "100109",
+            "SectionNo(Renukoot)": "12173",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114.3,
+            "Size (B)": "44.5",
+            "Thickness": 1.6,
+            "Weight": "1.406"
+          },
+          {
+            "SectionNo(Silvassa)": "100110",
+            "SectionNo(Renukoot)": "12174",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.58,
+            "Weight": "0.778"
+          },
+          {
+            "SectionNo(Silvassa)": "100111",
+            "SectionNo(Renukoot)": "12175",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "1.355"
+          },
+          {
+            "SectionNo(Silvassa)": "100112",
+            "SectionNo(Renukoot)": "12176",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.55,
+            "Weight": "1.064"
+          },
+          {
+            "SectionNo(Silvassa)": "100113",
+            "SectionNo(Renukoot)": "12177",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.642"
+          },
+          {
+            "SectionNo(Silvassa)": "100116",
+            "SectionNo(Renukoot)": "2640",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.008"
+          },
+          {
+            "SectionNo(Silvassa)": "100117",
+            "SectionNo(Renukoot)": "2319",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.6,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "1.413"
+          },
+          {
+            "SectionNo(Silvassa)": "100118",
+            "SectionNo(Renukoot)": "7088",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 1.8,
+            "Weight": "0.93"
+          },
+          {
+            "SectionNo(Silvassa)": "100119",
+            "SectionNo(Renukoot)": "4982",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.075"
+          },
+          {
+            "SectionNo(Silvassa)": "100120",
+            "SectionNo(Renukoot)": "2637",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.396"
+          },
+          {
+            "SectionNo(Silvassa)": "100121",
+            "SectionNo(Renukoot)": "3622",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 83.5,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.022"
+          },
+          {
+            "SectionNo(Silvassa)": "100122",
+            "SectionNo(Renukoot)": "6280",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 63.5,
+            "Size (B)": "49.5",
+            "Thickness": 1.8,
+            "Weight": "1.186"
+          },
+          {
+            "SectionNo(Silvassa)": "100123",
+            "SectionNo(Renukoot)": "7336",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 44.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "0.953"
+          },
+          {
+            "SectionNo(Silvassa)": "100124",
+            "SectionNo(Renukoot)": "8620",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.176"
+          },
+          {
+            "SectionNo(Silvassa)": "100125",
+            "SectionNo(Renukoot)": "5810",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.743"
+          },
+          {
+            "SectionNo(Silvassa)": "100127",
+            "SectionNo(Renukoot)": "4875",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.783"
+          },
+          {
+            "SectionNo(Silvassa)": "100128",
+            "SectionNo(Renukoot)": "2204",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.007"
+          },
+          {
+            "SectionNo(Silvassa)": "100129",
+            "SectionNo(Renukoot)": "1775",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 2.75,
+            "Weight": "1.411"
+          },
+          {
+            "SectionNo(Silvassa)": "100130",
+            "SectionNo(Renukoot)": "7086",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.792"
+          },
+          {
+            "SectionNo(Silvassa)": "100131",
+            "SectionNo(Renukoot)": "6224",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.301"
+          },
+          {
+            "SectionNo(Silvassa)": "100132",
+            "SectionNo(Renukoot)": "4841",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 62.3,
+            "Size (B)": "50.0",
+            "Thickness": 2.5,
+            "Weight": "1.473"
+          },
+          {
+            "SectionNo(Silvassa)": "100133",
+            "SectionNo(Renukoot)": "7235",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.088"
+          },
+          {
+            "SectionNo(Silvassa)": "100134",
+            "SectionNo(Renukoot)": "7236",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.413"
+          },
+          {
+            "SectionNo(Silvassa)": "100135",
+            "SectionNo(Renukoot)": "8064",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.047"
+          },
+          {
+            "SectionNo(Silvassa)": "100136",
+            "SectionNo(Renukoot)": "7383",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 95.5,
+            "Size (B)": "45.0",
+            "Thickness": 1.3,
+            "Weight": "1.095"
+          },
+          {
+            "SectionNo(Silvassa)": "100137",
+            "SectionNo(Renukoot)": "7085",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 100,
+            "Size (B)": "44.5",
+            "Thickness": 1.85,
+            "Weight": "1.51"
+          },
+          {
+            "SectionNo(Silvassa)": "100138",
+            "SectionNo(Renukoot)": "6755",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 100,
+            "Size (B)": "44.5",
+            "Thickness": 1.9,
+            "Weight": "1.49"
+          },
+          {
+            "SectionNo(Silvassa)": "100139",
+            "SectionNo(Renukoot)": "6227",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 100,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.979"
+          },
+          {
+            "SectionNo(Silvassa)": "100140",
+            "SectionNo(Renukoot)": "4873",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.324"
+          },
+          {
+            "SectionNo(Silvassa)": "100141",
+            "SectionNo(Renukoot)": "2202",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.728"
+          },
+          {
+            "SectionNo(Silvassa)": "100142",
+            "SectionNo(Renukoot)": "1772",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.519"
+          },
+          {
+            "SectionNo(Silvassa)": "100143",
+            "SectionNo(Renukoot)": "2639",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114.3,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.731"
+          },
+          {
+            "SectionNo(Silvassa)": "100144",
+            "SectionNo(Renukoot)": "5284",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 114.3,
+            "Size (B)": "44.5",
+            "Thickness": 1.35,
+            "Weight": "0.9"
+          },
+          {
+            "SectionNo(Silvassa)": "100145",
+            "SectionNo(Renukoot)": "5283",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 114.5,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.524"
+          },
+          {
+            "SectionNo(Silvassa)": "100146",
+            "SectionNo(Renukoot)": "3413",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "2.703"
+          },
+          {
+            "SectionNo(Silvassa)": "100147",
+            "SectionNo(Renukoot)": "5834",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "3.103"
+          },
+          {
+            "SectionNo(Silvassa)": "100148",
+            "SectionNo(Renukoot)": "1774",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.292"
+          },
+          {
+            "SectionNo(Silvassa)": "100149",
+            "SectionNo(Renukoot)": "4874",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "0.892"
+          },
+          {
+            "SectionNo(Silvassa)": "100150",
+            "SectionNo(Renukoot)": "2203",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 47.5,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.109"
+          },
+          {
+            "SectionNo(Silvassa)": "100151",
+            "SectionNo(Renukoot)": "7089",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 1.4,
+            "Weight": "0.768"
+          },
+          {
+            "SectionNo(Silvassa)": "100152",
+            "SectionNo(Renukoot)": "7087",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 1.8,
+            "Weight": "0.95"
+          },
+          {
+            "SectionNo(Silvassa)": "100153",
+            "SectionNo(Renukoot)": "6225",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 50,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.26"
+          },
+          {
+            "SectionNo(Silvassa)": "100154",
+            "SectionNo(Renukoot)": "2638",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.676"
+          },
+          {
+            "SectionNo(Silvassa)": "100155",
+            "SectionNo(Renukoot)": "4979",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.129"
+          },
+          {
+            "SectionNo(Silvassa)": "100156",
+            "SectionNo(Renukoot)": "5286",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.46"
+          },
+          {
+            "SectionNo(Silvassa)": "100157",
+            "SectionNo(Renukoot)": "1771",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 85,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.117"
+          },
+          {
+            "SectionNo(Silvassa)": "100158",
+            "SectionNo(Renukoot)": "2673",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 44,
+            "Size (B)": "3.0",
+            "Thickness": 1.5,
+            "Weight": "0.254"
+          },
+          {
+            "SectionNo(Silvassa)": "100159",
+            "SectionNo(Renukoot)": "1796",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 44.2,
+            "Size (B)": "3.0",
+            "Thickness": 1.5,
+            "Weight": "0.224"
+          },
+          {
+            "SectionNo(Silvassa)": "100188",
+            "SectionNo(Renukoot)": "7382",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 48,
+            "Size (B)": "24.0",
+            "Thickness": 1.1,
+            "Weight": "0.481"
+          },
+          {
+            "SectionNo(Silvassa)": "100189",
+            "SectionNo(Renukoot)": "6216",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 61.9,
+            "Size (B)": "36.5",
+            "Thickness": 1.2,
+            "Weight": "0.698"
+          },
+          {
+            "SectionNo(Silvassa)": "100190",
+            "SectionNo(Renukoot)": "6217",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 62.5,
+            "Size (B)": "37.1",
+            "Thickness": 1.5,
+            "Weight": "0.858"
+          },
+          {
+            "SectionNo(Silvassa)": "100191",
+            "SectionNo(Renukoot)": "5285",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 1.35,
+            "Weight": "0.812"
+          },
+          {
+            "SectionNo(Silvassa)": "100192",
+            "SectionNo(Renukoot)": "4571",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 1.5,
+            "Weight": "0.89"
+          },
+          {
+            "SectionNo(Silvassa)": "100193",
+            "SectionNo(Renukoot)": "2206",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 2,
+            "Weight": "1.146"
+          },
+          {
+            "SectionNo(Silvassa)": "100194",
+            "SectionNo(Renukoot)": "7351",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 63.5,
+            "Size (B)": "38.0",
+            "Thickness": 2.5,
+            "Weight": "1.368"
+          },
+          {
+            "SectionNo(Silvassa)": "100196",
+            "SectionNo(Renukoot)": "10805",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 76,
+            "Size (B)": "38.0",
+            "Thickness": 2,
+            "Weight": "1.281"
+          },
+          {
+            "SectionNo(Silvassa)": "100197",
+            "SectionNo(Renukoot)": "7146",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 82.5,
+            "Size (B)": "38.0",
+            "Thickness": 1.6,
+            "Weight": "1.107"
+          },
+          {
+            "SectionNo(Silvassa)": "100198",
+            "SectionNo(Renukoot)": "8911",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "20.0",
+            "Thickness": 4,
+            "Weight": "2.546"
+          },
+          {
+            "SectionNo(Silvassa)": "100199",
+            "SectionNo(Renukoot)": "4871",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 1.5,
+            "Weight": "1.244"
+          },
+          {
+            "SectionNo(Silvassa)": "100200",
+            "SectionNo(Renukoot)": "2200",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "1.621"
+          },
+          {
+            "SectionNo(Silvassa)": "100201",
+            "SectionNo(Renukoot)": "4319",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 2.5,
+            "Weight": "1.992"
+          },
+          {
+            "SectionNo(Silvassa)": "100202",
+            "SectionNo(Renukoot)": "1769",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.36"
+          },
+          {
+            "SectionNo(Silvassa)": "100203",
+            "SectionNo(Renukoot)": "8864",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 101.6,
+            "Size (B)": "44.5",
+            "Thickness": 3.18,
+            "Weight": "2.486"
+          },
+          {
+            "SectionNo(Silvassa)": "100204",
+            "SectionNo(Renukoot)": "8767",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 123,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "2.704"
+          },
+          {
+            "SectionNo(Silvassa)": "100205",
+            "SectionNo(Renukoot)": "7342",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 2,
+            "Weight": "2.152"
+          },
+          {
+            "SectionNo(Silvassa)": "100206",
+            "SectionNo(Renukoot)": "8136",
+            "Product": "Partitions",
+            "Application": "(blank)",
+            "Size (A)": 150,
+            "Size (B)": "44.5",
+            "Thickness": 3,
+            "Weight": "3.151"
+          },
+          {
+            "SectionNo(Silvassa)": "100207",
+            "SectionNo(Renukoot)": "12164",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.136"
+          },
+          {
+            "SectionNo(Silvassa)": "100208",
+            "SectionNo(Renukoot)": "12165",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "1.448"
+          },
+          {
+            "SectionNo(Silvassa)": "100209",
+            "SectionNo(Renukoot)": "12166",
+            "Product": "Doors",
+            "Application": "(blank)",
+            "Size (A)": 0,
+            "Size (B)": "0.0",
+            "Thickness": 0,
+            "Weight": "2.06"
+          },
+          {
+            "SectionNo(Silvassa)": "",
+            "SectionNo(Renukoot)": "",
+            "Product": "",
+            "Application": "",
+            "Size (A)": null,
+            "Size (B)": "",
+            "Thickness": null,
+            "Weight": ""
+          }
+        ]
+      }
+    ],
+    "img": "doors_partitions.jpg"
+  }
+]
